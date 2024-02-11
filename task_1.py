@@ -57,6 +57,5 @@ if __name__ == "__main__":
     print(c1 <= c2)
     print(c1 > c2)
     print(c1 >= c2)
-
     print(c3.radius)
     print(c1.radius)
