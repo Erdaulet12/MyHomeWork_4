@@ -57,6 +57,8 @@ if __name__ == "__main__":
     first_plane = Airplane("Boeing 747", 467)
     second_plane = Airplane("Airbus A380", 853)
 
+    print(first_plane)
+    print(second_plane)
     print(first_plane == second_plane)
     print(first_plane + second_plane)
     print(first_plane - second_plane)
